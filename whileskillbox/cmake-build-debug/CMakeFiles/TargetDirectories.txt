@@ -1,0 +1,3 @@
+/home/corvussharp/CLionProjects/whileskillbox/cmake-build-debug/CMakeFiles/untitled27.dir
+/home/corvussharp/CLionProjects/whileskillbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/corvussharp/CLionProjects/whileskillbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir

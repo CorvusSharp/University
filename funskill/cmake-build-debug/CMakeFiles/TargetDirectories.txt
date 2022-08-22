@@ -1,0 +1,3 @@
+/home/corvussharp/CLionProjects/funskill/cmake-build-debug/CMakeFiles/funskill.dir
+/home/corvussharp/CLionProjects/funskill/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/corvussharp/CLionProjects/funskill/cmake-build-debug/CMakeFiles/rebuild_cache.dir

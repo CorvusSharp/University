@@ -1,0 +1,2 @@
+/home/corvussharp/CLionProjects/untitled14/test_dir/x.txt
+/home/corvussharp/CLionProjects/untitled14/test_dir/y.txt

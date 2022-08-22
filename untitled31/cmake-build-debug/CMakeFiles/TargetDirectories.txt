@@ -1,0 +1,3 @@
+/home/corvussharp/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/untitled31.dir
+/home/corvussharp/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/corvussharp/CLionProjects/untitled31/cmake-build-debug/CMakeFiles/rebuild_cache.dir
